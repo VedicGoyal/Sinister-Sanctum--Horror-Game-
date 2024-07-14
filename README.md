@@ -1,2 +1,2 @@
 # Sinister Sanctum (Horror Game)
- A horror game developed in UE5
+ A horror game developed by me in UE5
